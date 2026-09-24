@@ -1,0 +1,2 @@
+# shootergame
+Pyxelで作ったシューティングゲーム
